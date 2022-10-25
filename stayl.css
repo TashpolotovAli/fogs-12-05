@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(32, 28, 28);
+    color: aliceblue;
+}
+.rick-div{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding-top: 30px;
+
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(22, 32, 41);
+}
+.character__img{
+    background-color: aliceblue;
+    
+}
+
+.character__status{
+    flex-direction: column;
+    
+}
+
